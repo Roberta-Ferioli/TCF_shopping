@@ -1,0 +1,15 @@
+# ninja log v5
+6424	8349	6700251646156002	CMakeFiles/Shopping.dir/Menu.cpp.obj	3de0676eb4bddd67
+472	6529	6700251627566642	CMakeFiles/Shopping.dir/Pantaloni.cpp.obj	4cdf9b2e131057f
+80	6424	6700251624286155	CMakeFiles/Shopping.dir/main.cpp.obj	c6ee5af82277b93c
+6349	8325	6700251645531143	CMakeFiles/Shopping.dir/Accesso.cpp.obj	1fe741d2b3b44618
+6446	8540	6700251648030560	CMakeFiles/Shopping.dir/Registrazione.cpp.obj	344004d7fbd63f64
+477	6630	6700251628816330	CMakeFiles/Shopping.dir/Maglie.cpp.obj	8ad3f44fed3bdf18
+6630	8582	6700251648030560	CMakeFiles/Shopping.dir/Account.cpp.obj	5a5df6e5bccca23
+6530	8411	6700251646937067	CMakeFiles/Shopping.dir/Carta.cpp.obj	1588654a92aff2df
+486	6445	6700251627097999	CMakeFiles/Shopping.dir/Oggetto.cpp.obj	1b6507549a17282d
+8326	10333	6700251666463723	CMakeFiles/Shopping.dir/Listaprod.cpp.obj	f5a55b6b29331fa8
+467	10352	6700251666619938	CMakeFiles/Shopping.dir/Categorie.cpp.obj	841c4e1e481907e0
+8349	9935	6700251662245986	CMakeFiles/Shopping.dir/Paypal.cpp.obj	bc3b7b6067aeb9ff
+8412	14500	6700251708328900	CMakeFiles/Shopping.dir/Menusel.cpp.obj	6b06a62f3557edec
+481	6348	6700251625223436	CMakeFiles/Shopping.dir/Logout.cpp.obj	17c825b50880bcac
